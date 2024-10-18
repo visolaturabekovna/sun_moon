@@ -1,0 +1,4 @@
+0 Moon
+1 Sun
+2 stars
+3 Nebula
